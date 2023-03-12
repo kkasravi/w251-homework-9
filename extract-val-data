@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+curl https://w251hw05.s3.us-west-1.amazonaws.com/ILSVRC2012_img_val.tar --output ILSVRC2012_img_val.tar && \
+mkdir val && mv ILSVRC2012_img_val.tar val/ && cd val && tar -xvf ILSVRC2012_img_val.tar
+wget -qO- https://raw.githubusercontent.com/soumith/imagenetloader.torch/master/valprep.sh | bash
