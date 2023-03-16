@@ -7,7 +7,17 @@
 
 ## Notebook and Related Stats for DDP
 
-- notebook-ddp.ipynb
+### rank-0
+
+- notebook-ddp-0.ipynb
+- runs/ddp-0/events.out.tfevents.1678928705.ip-172-31-5-57.1248.0
+- tensorboard-screenshot-ddp-0.png
+
+### rank-1
+
+- notebook-ddp-1.ipynb
+- runs/ddp-1/events.out.tfevents.1678938311.ip-172-31-8-91.110.0
+- tensorboard-screenshot-ddp-1.png
 
 ## Locations for downloading imagenet and CINIC
 
