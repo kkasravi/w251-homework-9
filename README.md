@@ -3,6 +3,7 @@
 ## Notebook and Related Stats for AMP
 
 - notebook-amp.ipynb
+- runs/events.out.tfevents.1678928705.ip-172-31-5-57.1248.0
 
 ## Notebook and Related Stats for DDP
 
